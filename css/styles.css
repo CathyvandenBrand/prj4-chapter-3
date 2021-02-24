@@ -1,0 +1,12 @@
+body
+{
+    background-color:rgb(218, 214, 214);
+}
+h1.first
+{
+    color: rgb(97, 22, 238);
+}
+#panda
+{
+    border: 3px dashed blueviolet;
+}
